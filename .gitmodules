@@ -1,0 +1,3 @@
+[submodule "beanmachine"]
+	path = beanmachine
+	url = https://github.com/feynmanliang/lightweight-inference-compilation
